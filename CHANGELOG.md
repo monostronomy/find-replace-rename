@@ -6,6 +6,13 @@ All notable changes to this project will be documented in this file.
 
 The format is based on Keep a Changelog, and this project adheres (loosely) to Semantic Versioning.
 
+## [0.3.1] - 2025-08-23
+
+### Documentation
+
+- Updated README wording, replaced'dmo' to 'demo' in examples.
+
+
 ## [0.3.0] - 2025-08-23
 
 ### Added
