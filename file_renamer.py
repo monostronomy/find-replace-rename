@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""
+r"""
 Recursive File Renamer
 
 Features:
@@ -14,10 +14,10 @@ Features:
 - Optional --backup to create a .bak copy (with collision handling) before renaming files
 
 CLI usage examples:
-  python file_renamer.py "C:\\" "(Z-Library)" ""         # remove term from all files under C:\ (case-insensitive)
+  python file_renamer.py "C:\\" "demo" ""         # remove term from all files under C:\ (case-insensitive)
   python file_renamer.py "D:\\Projects" "foo" "bar"       # replace foo->bar
   python file_renamer.py "D:\\Projects" "foo" --cs        # case-sensitive, remove foo
-  python file_renamer.py "(Z-Library)" --cs                 # treat as find-term only; prompt for location, replace
+  python file_renamer.py "demo" --cs                 # treat as find-term only; prompt for location, replace
   python file_renamer.py --dry-run --ext ".pdf,.txt"        # interactive prompts, preview only
 
 Confirmation:
