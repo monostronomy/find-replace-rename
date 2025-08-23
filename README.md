@@ -39,7 +39,7 @@ python file_renamer.py "D:\Projects" "foo" "bar"
 Remove a term by providing an empty replace value (use quotes to pass empty string):
 
 ```powershell
-python file_renamer.py "C:\" "(Z-Library)" ""
+python file_renamer.py "C:\" "demo" ""
 ```
 
 Preview first (no changes made):
