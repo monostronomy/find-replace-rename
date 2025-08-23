@@ -1,6 +1,6 @@
 # Recursive File Renamer (Windows-friendly)
 
-[![CI](https://github.com/monostronom/find-replace-rename/actions/workflows/ci.yml/badge.svg)](https://github.com/monostronom/find-replace-rename/actions/workflows/ci.yml)
+[![CI](https://github.com/monostronomy/find-replace-rename/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/monostronomy/find-replace-rename/actions)
 
 A robust Python script to recursively search and rename files (and optionally directories) with flexible find/replace rules. Supports interactive prompts and CLI usage, dry-run previews, name-collision handling, backups, and both human-readable and JSONL structured logging.
 

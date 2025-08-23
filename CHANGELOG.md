@@ -1,6 +1,6 @@
 # Changelog
 
-[![CI](https://github.com/monostronom/find-replace-rename/actions/workflows/ci.yml/badge.svg)](https://github.com/monostronom/find-replace-rename/actions/workflows/ci.yml)
+[![CI](https://github.com/monostronomy/find-replace-rename/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/monostronomy/find-replace-rename/actions)
 
 All notable changes to this project will be documented in this file.
 
