@@ -6,6 +6,13 @@ All notable changes to this project will be documented in this file.
 
 The format is based on Keep a Changelog, and this project adheres (loosely) to Semantic Versioning.
 
+## [0.3.2] - 2025-08-24
+
+### Fixed
+
+- README formatting cleanups and minor typo corrections.
+- Updated example JSON timestamp formatting and spacing.
+
 ## [0.3.1] - 2025-08-23
 
 ### Documentation
